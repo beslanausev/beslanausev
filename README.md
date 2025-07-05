@@ -22,8 +22,3 @@
 - LinkedIn: [beslanausev](https://linkedin.com/in/beslanausev)
 - Twitter: [@beslanausev](https://twitter.com/beslanausev)
 
-## ⚡ Интересный факт
-
-- Я однажды собрал кубик Рубика за меньше чем за минуту.
-- Я люблю походы и покорил несколько гор.
-
